@@ -1,0 +1,20 @@
+body {background-color: lightgray; margin: 0; font-family: 'Roboto', sans-serif;}
+h1 {
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+.title {padding: 15px;}
+.title h2 {margin: 0; font-size: 20px; display: inline;}
+.title p {float: right; margin: 0; color: gray}
+.description {padding: 15px;}
+.box {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    border-bottom: 1px solid white;
+}
+img {width:100%}
